@@ -3,7 +3,7 @@
 *2* Spelet ska välja en av 3 svårigheter, "easy", "noraml" eller "hard". Easy ord är korta och enkla medans Hard ord är långa och svåra, normal är i mitten av de 2.
 *3* Spelet funkar precis som ett vanligt hängagubbe spel, dvs "bygga" klart gubben för att hänga gubben. Användaren har 6 försök på sig för att gissa ordet spelet har valt.
 *4* Om användaren har förlorat så måste hen börja om, om användaren har vunnit så får hen en belöning. Belöningen är att gubben är fri och redo för en till försök.
---=-|--------------------------------------------------------------------------------------------------------------------------|=--
+--=-|-------------------------------------------------------------------------------------------------------------|=--
 ### Tydligare beskrivning och svar om frågorna koden ###
 *1; Vilken extra funktionalitet har du tänkt implementera?*
 -  en "difficulty" funktion som bestämmer hur svåra orden ska vara, när spelet börjar så väljer den mellan 3 random svårighetsgrader.
